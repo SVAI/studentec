@@ -9,4 +9,4 @@
 
 ## Jupyter Notebooks
 
-[Experimentations](experiments.ipynb)
+[Jupyter R Notebook for Data Exploration](experiments.ipynb)
