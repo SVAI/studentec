@@ -9,4 +9,4 @@
 
 ## Jupyter Notebooks
 
-[Experimentations](experimentations.ipynb)
+[Experimentations](experiments.ipynb)
